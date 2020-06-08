@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: .CRT 區段存在，可能有未處理的靜態初始設定式或終止函式
+  HW04.vcxproj -> C:\Users\User\Desktop\HW04\Debug\HW04.exe
